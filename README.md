@@ -1,1 +1,1 @@
-Vault-Protocols: Internal Use Only.
+Nothing to see here anymore. The protocols have been scrubbed.
